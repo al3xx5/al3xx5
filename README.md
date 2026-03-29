@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/alexrodriguez2006/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an IT professional and Cybersecurity student with a passion for solving complex technical challenges. Currently applying my foundational skills as a PC Technician, I am actively pursuing the CompTIA Security+ certification, with the ultimate objective of becoming a Security Operations Center (SOC) Analyst. Beyond core infrastructure and security, I am highly engaged in exploring artificial intelligence and machine learning. Recognizing the rapid integration of AI into modern systems, I am committed to understanding its operational impact and harnessing its capabilities within the evolving tech landscape. I believe understanding their mechanics is imperative for any forward-looking technology professional.
+I am a Cybersecurity student with a passion for solving complex technical challenges. Currently applying my foundational skills as a PC Technician, I am actively pursuing the CompTIA Security+ certification, with the ultimate objective of becoming a Security Operations Center (SOC) Analyst. Beyond core infrastructure and security, I am highly engaged in exploring artificial intelligence and machine learning. Recognizing the rapid integration of AI into modern systems, I am committed to understanding its operational impact and harnessing its capabilities within the evolving tech landscape. I believe understanding their mechanics is imperative for any forward-looking technology professional.
 
 # Projects
 | Description                                         | Link         |
