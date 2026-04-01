@@ -13,9 +13,9 @@
 I am a Cybersecurity student with a passion for solving complex technical challenges. Currently applying my foundational skills as a PC Technician, I am actively pursuing the CompTIA Security+ certification, with the ultimate objective of becoming a Security Operations Center (SOC) Analyst. Beyond core infrastructure and security, I am highly engaged in exploring artificial intelligence and machine learning. Recognizing the rapid integration of AI into modern systems, I am committed to understanding its operational impact and harnessing its capabilities within the evolving tech landscape. I believe understanding their mechanics is imperative for any forward-looking technology professional.
 
 # Projects
-| Description                                         | Link         |
+| Title                                         | Description         |
 |-----------------------------------------------|----------------------------|
-| test          | <a href="https://google.com">test</a>|
+|[Cybersecurity News Summarizer](https://github.com/al3xx5/News-Summarizer-with-AI)         |This project is an automated Python application that scrapes daily articles from The Hacker News, uses Gemini AI to generate witty and analogy-rich summaries, and delivers the formatted briefing via email.|
 
 
 # Certifications
