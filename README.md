@@ -17,6 +17,11 @@ I am a Cybersecurity student with a passion for solving complex technical challe
 |-----------------------------------------------|----------------------------|
 |[Cybersecurity News Summarizer](https://github.com/al3xx5/News-Summarizer-with-AI)         |This project is an automated Python application that scrapes daily articles from The Hacker News, uses Gemini AI to generate witty and analogy-rich summaries, and delivers the formatted briefing via email.|
 
+# Learning
+
+Ed Donner's "[AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/)" 
+* [Notes](https://github.com/al3xx5/LLM_Engineering/tree/main) for the course
+
 
 # Certifications
 <a href="https://www.credly.com/badges/8dcbe67a-6ee0-492d-847d-0cfc4ed76ceb/public_url"><img src="https://img.shields.io/badge/-A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"/></a>
