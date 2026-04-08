@@ -20,7 +20,6 @@ I am a Cybersecurity student with a passion for solving complex technical challe
 # Learning
 
 Ed Donner's "[AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/)" 
-* [Notes](https://github.com/al3xx5/LLM_Engineering/tree/main) for the course
 
 
 # Certifications
