@@ -16,6 +16,7 @@ I am a Cybersecurity student with a passion for solving complex technical challe
 | Title                                         | Description         |
 |-----------------------------------------------|----------------------------|
 |[Cybersecurity News Summarizer](https://github.com/al3xx5/News-Summarizer-with-AI)         |This project is an automated Python application that scrapes daily articles from The Hacker News, uses Gemini AI to generate witty and analogy-rich summaries, and delivers the formatted briefing via email.|
+|[AI Assistant/Chatbot](https://github.com/al3xx5/AI-Assistant-Chatbot)|This project features two AI chatbot prototypes built with Python and the Gemini API to demonstrate persona-driven prompt engineering, custom function calling, and interactive web interfaces using Gradio.|
 
 # Learning
 
